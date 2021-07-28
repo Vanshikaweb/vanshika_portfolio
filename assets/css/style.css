@@ -476,7 +476,7 @@ h1, h2, h3, h4, h5, h6 {
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
-	   text-align: center;
+	  text-align: center;
   }
 }
 
@@ -1368,6 +1368,6 @@ width: 400px !important;
 @media (max-width: 992px){
   .vanshu{
     font-family:Fira Code;
-    font-size: 15px;
+    font-size: 12px;
   }
 }
