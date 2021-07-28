@@ -484,10 +484,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
   }
 }
-.vanshu{
-  font-family:Fira Code;
-  font-size: 20px;
-}
+
 span2{
   color:blue;
 }
@@ -1368,4 +1365,14 @@ width: 400px !important;
 }
 #vanshu{
   margin-top:20px !important;
+}
+.vanshu{
+  font-family:Fira Code;
+  font-size: 20px;
+}
+@media (max-width: 992px){
+  .vanshu{
+    font-family:Fira Code;
+    font-size: 10px;
+  }
 }
